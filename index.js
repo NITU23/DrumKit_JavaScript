@@ -33,37 +33,37 @@ function makesound(key)
 var b = key;
 if(b=="w")
 {
-  var name  = new Audio("sounds/tom-1.mp3");
+  var name  = new Audio("tom-1.mp3");
    name.play();
 }
 if(b=="a")
 {
-  var name  = new Audio("sounds/tom-2.mp3");
+  var name  = new Audio("tom-2.mp3");
    name.play();
 }
 if(b=="s")
 {
-  var name  = new Audio("sounds/tom-3.mp3");
+  var name  = new Audio("tom-3.mp3");
    name.play();
 }
 if(b=="d")
 {
-  var name  = new Audio("sounds/tom-4.mp3");
+  var name  = new Audio("tom-4.mp3");
    name.play();
 }
 if(b=="j")
 {
-  var name  = new Audio("sounds/crash.mp3");
+  var name  = new Audio("crash.mp3");
    name.play();
 }
 if(b=="k")
 {
-  var name  = new Audio("sounds/kick-bass.mp3");
+  var name  = new Audio("kick-bass.mp3");
    name.play();
 }
 if(b=="l")
 {
-  var name  = new Audio("sounds/snare.mp3");
+  var name  = new Audio("snare.mp3");
    name.play();
 }
 }
